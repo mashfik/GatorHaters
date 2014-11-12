@@ -182,7 +182,7 @@ public class Game
         }
     }
     
-    private void nothing()
+    private void nothing2()
     {
         
     }

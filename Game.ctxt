@@ -24,5 +24,5 @@ comment7.params=command
 comment7.target=boolean\ quit(Command)
 comment7.text=\ \n\ "Quit"\ was\ entered.\ Check\ the\ rest\ of\ the\ command\ to\ see\n\ whether\ we\ really\ quit\ the\ game.\n\ @return\ true,\ if\ this\ command\ quits\ the\ game,\ false\ otherwise.\n
 comment8.params=
-comment8.target=void\ nothing()
+comment8.target=void\ nothing2()
 numComments=9
